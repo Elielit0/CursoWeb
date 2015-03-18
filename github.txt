@@ -3,7 +3,7 @@ Es el sistemas mas anticuado en el cual podemos trabajar HTML5
 
 Lo mejor es el Sistema de Control de Versiones:
 
-Github ------> wwww.github.com
+Github ------> wwww.githoob.com
 
 
 Frontend - JavaScrip, si es un lenguaje de Programacion. 
